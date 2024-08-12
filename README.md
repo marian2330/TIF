@@ -24,7 +24,7 @@ Este proyecto es una aplicación web de noticias desarrollada como Trabajo Integ
 
 1. Clona el repositorio:
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
+    git clone <(https://github.com/marian2330/TIF)>
     ```
 
 2. Navega al directorio del proyecto:
